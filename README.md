@@ -20,18 +20,19 @@ Regulatory Exposure: Leadership recognized a misalignment with ISO 27001 control
 
 ### My Contribution:
 I led the development of ISO/IEC 27002:2022-aligned information security policies tailored to Wales Interiors' environment and challenges. The policy pack addressed:
+- Access Control & Privilege Management
 
-Access Control & Privilege Management
+- Data Classification & Handling
 
-Data Classification & Handling
+- Acceptable Use & Remote Working
 
-Acceptable Use & Remote Working
+- Incident Response
 
-Incident Response
-
-Security Awareness Training
+- Security Awareness Training
 
 Each policy included clear guidance, mapped controls, and ownership to support internal risk reduction, audit readiness, and ISO alignment.
+
+I also communicated the policies to relevant departments, provided practical context, and ensured acknowledgement and understanding were documented through internal sign-off and awareness tracking.
 
 ## Included Policies
 - Access Control Policy
