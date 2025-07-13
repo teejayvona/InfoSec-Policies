@@ -3,7 +3,7 @@
 This repository contains ISO/IEC 27001:2022-aligned information security policies developed to support organizational security posture and compliance efforts.
 
 ## Real-World Scenario: Wales Interiors – Securing a Growing Brand
-Wales Interiors, a luxury design and furniture manufacturing firm, recently embarked on a bold digital transformation journey. To improve operational efficiency and collaboration, they migrated sensitive assets—including high-value design files, client contracts, and financial records—to cloud platforms such as Microsoft 365, Google Drive, and a custom-built ERP system.
+Wales Interiors, a luxury design and furniture manufacturing firm, recently began a bold digital transformation journey. To improve operational efficiency and collaboration, the company migrated its sensitive assets such as high-value design files, client contracts, and financial records to cloud platforms including Microsoft 365, Google Drive, and a custom-built ERP system.
 
 However, as sleek as their digital shift appeared, it exposed critical security gaps that posed both operational and compliance risks:
 
