@@ -1,4 +1,4 @@
-# Information Security Policies
+# Security Policy Development
 
 This repository contains ISO/IEC 27001:2022-aligned information security policies developed to support organizational security posture and compliance efforts.
 
@@ -8,15 +8,17 @@ Wales Interiors, a luxury design and furniture manufacturing firm, recently bega
 However, as sleek as their digital shift appeared, it exposed critical security gaps that posed both operational and compliance risks:
 
 ### Business Challenges:
-Weak Access Controls: Credentials were shared among staff, and ex-employees still had access to sensitive documents.
+Through walkthrough interviews and observations, I uncovered key business challenges that could hinder digital transformation and introduce security risks.
 
-Shadow IT Risks: Employees used personal devices and unauthorized apps to interact with company data—bypassing internal controls.
+1. Weak Access Controls: Credentials were shared among staff, and ex-employees still had access to sensitive documents.
 
-Insider Threats: A former staff member retained access to client project files weeks after termination.
+2. Shadow IT Risks: Employees used personal devices and unauthorized apps to interact with company data—bypassing internal controls.
 
-Low Security Awareness: Staff lacked foundational knowledge of cyber hygiene and best practices.
+3. Insider Threats: A former staff member retained access to client project files weeks after termination.
 
-Regulatory Exposure: Leadership recognized a misalignment with ISO 27001 controls, but had no structured way to evaluate the company’s security posture.
+4. Low Security Awareness: Staff lacked foundational knowledge of cyber hygiene and best practices.
+
+5. Regulatory Exposure: Leadership recognized a misalignment with ISO 27001 controls, but had no structured way to evaluate the company’s security posture.
 
 ### My Contribution:
 I led the development of ISO/IEC 27002:2022-aligned information security policies tailored to Wales Interiors' environment and challenges. The policy pack addressed:
@@ -27,6 +29,18 @@ I led the development of ISO/IEC 27002:2022-aligned information security policie
 - Acceptable Use & Remote Working
 
 - Incident Response
+
+- Clear Desk and Clear Screen Policy
+
+- Password Construction Standard
+
+- Physical Security Management Policy
+
+- Secure Configuration Policy
+
+- Technology Equipment Disposal
+
+- Third-Party Management Policy
 
 - Security Awareness Training
 
@@ -41,6 +55,12 @@ I also communicated the policies to relevant departments, provided practical con
 - Remote Working Security Policy
 - Acceptable Use Policy
 - Privileged Access Management Policy
+- Clear Desk and Clear Screen Policy
+- Password Construction Standard
+- Physical Security Management Policy
+- Secure Configuration Policy
+- Technology Equipment Disposal
+- Third-Party Management Policy
 
 ## Framework Reference
 Aligned with:
